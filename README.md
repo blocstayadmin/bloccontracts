@@ -1,7 +1,7 @@
 # bloccontracts
 Smart Contracts for the BlocStay Network
 
-Welcome to our BlocContracts set of smart contracts compliant with EC-20 standards!
+Welcome to our BlocContracts set of smart contracts compliant with ERC-20 standards!
 
 We have a library and 12 separate contracts, including four independently deployable contracts which function as:
 
